@@ -57,3 +57,9 @@ Screenshots:-
 9) Calculating Area of Rectangle,Square,Triangle Program : Implemented Using Inheritance
 
 ![I](I.png)
+
+9) Ploting Program : Creating Line Plot and Bar Plot(Vertical and Horizontal) by Height and Weight Using Matplotlib library 
+
+![P](P1.png)
+![P](P2.png)
+![P](P3.png)
