@@ -74,3 +74,7 @@ Screenshots:-
 ![SM](SM2.png)
 ![SM](SM3.png)
 
+12) Numpy Program : Performing Basic Operations Using Numpy library
+
+![NP](NP1.png)
+![NP](NP2.png)
