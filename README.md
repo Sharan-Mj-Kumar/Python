@@ -52,6 +52,8 @@ Screenshots:-
 
 8) ATM Interface Program : Created ATM Interface using Classes and Function
 
-![EB](ATM.png)
+![ATM](ATM.png)
 
+8) Calculating Area of Rectangle,Square,Triangle Program : Implemented Using Inheritance
 
+![I](I.png)
