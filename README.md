@@ -37,4 +37,8 @@ Screenshots:-
 
 ![S1](S1.png)
 
+5) Fibonacci, Pyramid, Repeat a and B values Program : Finding Fibonacci, Drawing Pyramid and repeat the values of a and b variable
+
+![F1](F1.png)
+![F2](F2.png)
 
