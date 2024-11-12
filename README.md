@@ -54,6 +54,6 @@ Screenshots:-
 
 ![ATM](ATM.png)
 
-8) Calculating Area of Rectangle,Square,Triangle Program : Implemented Using Inheritance
+9) Calculating Area of Rectangle,Square,Triangle Program : Implemented Using Inheritance
 
 ![I](I.png)
