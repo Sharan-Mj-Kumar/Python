@@ -45,3 +45,9 @@ Screenshots:-
 6) Reading Excel file Program : Displaying Salary details in tabuar faormat by reading excel file
 
 ![E1](E1.png)
+
+7) EB-Bill Calculation Program : Calculating EB-Bill by reading data in CSV file and display it in tabular format
+
+![EB](EB.png)
+
+
