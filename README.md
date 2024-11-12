@@ -19,9 +19,14 @@ Mini Project(Console Application): ATM Interface
 
 Screenshots:-
 
-List Program : Student Mark Percentage and Performance Calculation
+1) List Program : Student Semester Mark Percentage and Performance Calculation
 
 ![L1](L1.png)
 ![L2](L2.png)
+
+2) Tuple Program : Student Internal Mark Calculation
+
+![T1](T1.png)
+![T2](T2.png)
 
 
